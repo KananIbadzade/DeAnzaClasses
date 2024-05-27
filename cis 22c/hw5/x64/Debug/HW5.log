@@ -1,0 +1,94 @@
+﻿  main.cpp
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\sItem.h(8,10): error C2143: syntax error: missing ';' before '*'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\sItem.h(8,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\sItem.h(8,17): error C2238: unexpected token(s) preceding ';'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(10,10): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(76,2): message : see reference to class template instantiation 'ESI<E>' being compiled
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(10,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(25,10): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(25,33): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(32,32): error C2143: syntax error: missing ')' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(32,32): error C2143: syntax error: missing ';' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(32,32): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(32,39): error C2059: syntax error: ')'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(32,41): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(40,35): error C2143: syntax error: missing ')' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(40,35): error C2143: syntax error: missing ';' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(40,35): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(40,42): error C2059: syntax error: ')'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(40,44): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(54,24): error C2143: syntax error: missing ')' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(54,24): error C2143: syntax error: missing ';' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(54,24): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(54,31): error C2059: syntax error: ')'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(54,33): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(61,25): error C2143: syntax error: missing ')' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(61,25): error C2143: syntax error: missing ';' before '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(61,25): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(61,32): error C2059: syntax error: ')'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(61,34): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,14): error C2760: syntax error: '<' was unexpected here; expected 'declaration'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,16): error C2760: syntax error: '>' was unexpected here; expected 'declaration'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,20): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,50): error C2760: syntax error: '*' was unexpected here; expected ','
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,52): error C3878: syntax error: unexpected token 'constant' following 'expression'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,52): message : error recovery skipped: 'constant'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,63): error C2760: syntax error: ']' was unexpected here; expected ';'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,63): error C3878: syntax error: unexpected token ']' following 'expression_statement'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(12,63): message : error recovery skipped: ']'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(14,13): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(14,22): error C2065: '_array': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(16,18): error C2065: '_array': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(17,9): error C2065: '_array': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(17,18): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(21,85): error C2760: syntax error: ')' was unexpected here; expected '{'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(23,23): error C3861: '_array': identifier not found
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(23,23): error C2065: '_array': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(69,14): error C2760: syntax error: '<' was unexpected here; expected 'declaration'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(69,16): error C2760: syntax error: '>' was unexpected here; expected 'declaration'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(69,19): error C2065: 'removed_element': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(69,37): error C2065: '_array': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(72,13): error C2065: '_array': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(72,25): error C2065: '_array': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(16,35): error C2514: 'ESI': class template cannot be constructed
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(7,1): message : see declaration of 'ESI'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(26,19): error C2662: 'unsigned int ESI<E>::getNum(void)': cannot convert 'this' pointer from 'ESI' to 'ESI<E> &'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(26,16): message : Reason: cannot convert from 'ESI' to 'ESI<E>'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(26,16): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(24,18): message : see declaration of 'ESI<E>::getNum'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(26,19): message : while trying to match the argument list '()'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(29,21): error C2039: 'get': is not a member of 'ESI'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(7,1): message : see declaration of 'ESI'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(35,19): error C2662: 'size_t ESI<E>::append(sItem)': cannot convert 'this' pointer from 'ESI' to 'ESI<E> &'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(35,16): message : Reason: cannot convert from 'ESI' to 'ESI<E>'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(35,16): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\ESI.h(54,12): message : see declaration of 'ESI<E>::append'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\siDset.h(35,19): message : while trying to match the argument list '(sItem *)'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(32,21): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(33,21): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(49,11): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(51,14): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(52,9): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(53,9): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(54,9): error C2065: 'deAnza': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(54,23): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(62,23): error C2065: 'deAnza': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(66,11): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(68,14): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(69,9): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(70,9): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(71,9): error C2065: 'footHill': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(71,25): error C2065: 'tmp': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(77,23): error C2065: 'footHill': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(82,11): error C2059: syntax error: '<'
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(83,28): error C2065: 'deAnza_footHill_union': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\test_framework.h(84,23): error C2065: 'deAnza_footHill_union': undeclared identifier
+C:\Users\CompStore\OneDrive\Belgeler\C++\cis 22c\HW5\main.cpp(22,8): error C2059: syntax error: '<'

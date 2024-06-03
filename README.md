@@ -1,5 +1,5 @@
 # DeAnzaClasses
-De Anza College class work
+De Anza College important class work
 
 MATH 22 //discrete math
 
